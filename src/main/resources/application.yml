@@ -1,0 +1,5 @@
+batch:
+  step:
+    page-size: 1000
+    min-page-size: 1000
+    max-page-size: 5000
