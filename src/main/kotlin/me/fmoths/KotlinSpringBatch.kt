@@ -8,6 +8,11 @@ import org.springframework.batch.core.configuration.annotation.EnableBatchProces
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
+/**
+ * kotlin spring batch sample framwork
+ * author : fmoth
+ * date : 2021.04.03
+ */
 @EnableBatchProcessing
 @SpringBootApplication
 class KotlinSpringBatch
